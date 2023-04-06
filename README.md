@@ -1,6 +1,6 @@
 # AI-ML-models
-All of my own models, 
+Trying to learn... 
 
-Obviously the data is from the web so dont blame me if there already is a use of them somewhere out there on github
+Obviously the data is from the web so dont blame me if there already is a use of it somewhere out there on github
 
 Every model is under development
