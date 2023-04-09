@@ -5,4 +5,4 @@ Obviously the data is from the web so dont blame me if there already is a use of
 
 Every model is under development
 
-I will also use this repo as a sort-of TO-DO list. So I'll drop here my code to then-later take care of it. Files labeled: WSI (Uni Class - "Intro to Artificial Inteligence") are those sorts of files :)
+> I will also use this repo as a sort-of TO-DO list. So I'll drop here my code to then-later take care of it. Files labeled: WSI (Uni Class - "Intro to Artificial Inteligence") are those sorts of files :)
