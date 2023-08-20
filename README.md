@@ -1,7 +1,7 @@
 # AI-ML-models
 Trying to learn... 
 
-Obviously the data is from the web so dont blame me if there already is a use of it somewhere out there on github
+Obviously the data is from the web... So dont blame me if there has already been a use of it somewhere out there on github
 
 <b> Every model is under development </b>
 
